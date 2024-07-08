@@ -132,12 +132,6 @@ informative:
    Sections 4 through 6 contain conventional requirements specifying
    information on entities and control functions.
 
-   Sections 7 and 8 contain requirements specific to Energy Management.
-   Due to the nature of power supply, some monitoring and control
-   functions are not conducted by interacting with the entity of
-   interest but rather with other entities, for example, entities
-   upstream in a power distribution tree.
-
 ## Conventional Requirements for Energy Efficiency Management
 
    The specification of requirements for an Energy Efficiency Management standard
