@@ -1259,6 +1259,11 @@ informative:
 
    o There are currently two "Embedded Carbon" definitions. Pick one.
 
+   o Leveraging existing devices modularity to introduce eco-designed components in the n
+   etworks while being able to assess the gains in sustainability.
+   https://datatracker.ietf.org/doc/html/draft-stephan-legacy-path-eco-design-01
+   https://github.com/emile22/sustainability
+
    o Enhance EMAN framework, to support a more robust and comprehensive 
    Energy Efficiency Strategy. Let devices report whatever they can using 
    existing interfaces, without waiting until they implement new capabilities 
@@ -1269,9 +1274,7 @@ informative:
    for better Energy Efficiency Management. Not sure whether framework-related 
    requirements should be covered here. 
 
-   o Leveraging existing devices modularity to introduce eco-designed components in the networks while being able to assess the gains in sustainability.
-   https://datatracker.ietf.org/doc/html/draft-stephan-legacy-path-eco-design-01
-   https://github.com/emile22/sustainability
+
    
 
 # References
