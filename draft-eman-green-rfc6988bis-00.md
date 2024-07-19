@@ -1264,11 +1264,15 @@ informative:
    existing interfaces, without waiting until they implement new capabilities 
    determined by new or existing standards. Including the capability to 
    integrate with external data sources (for example, for devices that don't 
-   have the capability or reporting any energy-related metrcis) such as vendor 
+   have the capability or reporting any energy-related metrics) such as vendor 
    datasheets that provide energy consumption. Use case => upgrading a device 
    for better Energy Efficiency Management. Not sure whether framework-related 
    requirements should be covered here. 
 
+   o Leveraging existing devices modularity to introduce eco-designed components in the networks while being able to assess the gains in sustainability.
+   https://datatracker.ietf.org/doc/html/draft-stephan-legacy-path-eco-design-01
+   https://github.com/emile22/sustainability
+   
 
 # References
 
