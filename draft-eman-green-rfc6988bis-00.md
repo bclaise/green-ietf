@@ -1239,7 +1239,7 @@ informative:
    Will they/How can they benefit of the GREEN works ?
 
    o Battery use cases migh be different 10 years after. Should it be 
-   addressed in a future charter? So far the decision is no. Nevertheless it might be generalized to cover backup sources of energy caps and use.
+   addressed in a future charter? So far the decision is no. Nevertheless it might be generalized to cover backup sources of energy capabilities and use.
 
    o Do we need to keep a reference to the MIB object entPhysicalUUID 
    (in section 4.4 from ENTITY-MIB v4) in case of legacy device (MIB)? 
@@ -1267,7 +1267,7 @@ informative:
 
    o There are currently two "Embedded Carbon" definitions. Pick one.
 
-   o basic (scalar) units are not enough to describe Power Data Unit caps and/or output. We need a more complex structure (which might already exist ?) to cover meanings (that I copied in the chats) like CO2 footprint, clean energy, mix, renewable. as an example, this should help to describe reduction of energy consumption and the increase of renewable energy consumption
+   o basic (scalar) units are not enough to describe Power Data Unit capabilities and/or output. We need a more complex structure (which might already exist ?) to cover and combine meanings (that I copied from the chats) like CO2 footprint, clean energy, mix, renewable. as an example, this should help to describe reduction of energy consumption and the increase of renewable energy consumption
 
    o Enhance EMAN framework, to support a more robust and comprehensive 
    Energy Efficiency Strategy. Let devices report whatever they can using 
