@@ -1277,6 +1277,13 @@ informative:
    for better Energy Efficiency Management. Not sure whether framework-related 
    requirements should be covered here. 
 
+   o Company's SBTi approved decarbonization plan and how to link it to 
+   GREEN WG scope, short/mid vs long term
+   Open issue, https://github.com/marisolpalmero/GREEN-bof/issues/88
+
+   o Consideration to include in scope, allocate/compute and report the energy 
+   spent on behalf of a particular customer/user. 
+   Open issue, https://github.com/marisolpalmero/GREEN-bof/issues/89
 
 # References
 
