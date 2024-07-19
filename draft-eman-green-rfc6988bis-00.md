@@ -1275,8 +1275,6 @@ informative:
    requirements should be covered here. 
 
 
-   
-
 # References
 
 ## Normative References
