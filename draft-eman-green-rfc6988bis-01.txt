@@ -5,11 +5,11 @@
 green                                                          B. Claise
 Internet-Draft                                                     Q. Wu
 Intended status: Informational                                    Huawei
-Expires: 21 January 2025                                      M. Palmero
+Expires: 22 January 2025                                      M. Palmero
                                                      Cisco Systems, Inc.
                                                               E. Stephan
                                                                   Orange
-                                                            20 July 2024
+                                                            21 July 2024
 
 
  Requirements for Energy Efficiency Management, 11 years after the EMAN
@@ -53,7 +53,7 @@ Status of This Memo
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 1]
+Claise, et al.           Expires 22 January 2025                [Page 1]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -68,7 +68,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 21 January 2025.
+   This Internet-Draft will expire on 22 January 2025.
 
 Copyright Notice
 
@@ -109,7 +109,7 @@ Table of Contents
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 2]
+Claise, et al.           Expires 22 January 2025                [Page 2]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -165,7 +165,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 3]
+Claise, et al.           Expires 22 January 2025                [Page 3]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -221,7 +221,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 4]
+Claise, et al.           Expires 22 January 2025                [Page 4]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -277,7 +277,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 5]
+Claise, et al.           Expires 22 January 2025                [Page 5]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -333,7 +333,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 6]
+Claise, et al.           Expires 22 January 2025                [Page 6]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -389,7 +389,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 7]
+Claise, et al.           Expires 22 January 2025                [Page 7]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -445,7 +445,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 8]
+Claise, et al.           Expires 22 January 2025                [Page 8]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -501,7 +501,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025                [Page 9]
+Claise, et al.           Expires 22 January 2025                [Page 9]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -557,7 +557,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 10]
+Claise, et al.           Expires 22 January 2025               [Page 10]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -613,7 +613,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 11]
+Claise, et al.           Expires 22 January 2025               [Page 11]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -669,7 +669,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 12]
+Claise, et al.           Expires 22 January 2025               [Page 12]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -725,7 +725,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 13]
+Claise, et al.           Expires 22 January 2025               [Page 13]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -781,7 +781,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 14]
+Claise, et al.           Expires 22 January 2025               [Page 14]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -837,7 +837,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 15]
+Claise, et al.           Expires 22 January 2025               [Page 15]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -893,7 +893,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 16]
+Claise, et al.           Expires 22 January 2025               [Page 16]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -949,7 +949,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 17]
+Claise, et al.           Expires 22 January 2025               [Page 17]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1005,7 +1005,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 18]
+Claise, et al.           Expires 22 January 2025               [Page 18]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1061,7 +1061,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 19]
+Claise, et al.           Expires 22 January 2025               [Page 19]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1117,7 +1117,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 20]
+Claise, et al.           Expires 22 January 2025               [Page 20]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1173,7 +1173,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 21]
+Claise, et al.           Expires 22 January 2025               [Page 21]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1229,7 +1229,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 22]
+Claise, et al.           Expires 22 January 2025               [Page 22]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1285,7 +1285,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 23]
+Claise, et al.           Expires 22 January 2025               [Page 23]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1341,7 +1341,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 24]
+Claise, et al.           Expires 22 January 2025               [Page 24]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1397,7 +1397,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 25]
+Claise, et al.           Expires 22 January 2025               [Page 25]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1453,7 +1453,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 26]
+Claise, et al.           Expires 22 January 2025               [Page 26]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1509,7 +1509,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 27]
+Claise, et al.           Expires 22 January 2025               [Page 27]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1565,7 +1565,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 28]
+Claise, et al.           Expires 22 January 2025               [Page 28]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1621,7 +1621,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 29]
+Claise, et al.           Expires 22 January 2025               [Page 29]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1677,7 +1677,7 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 30]
+Claise, et al.           Expires 22 January 2025               [Page 30]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
@@ -1727,20 +1727,36 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
    sustainability.  https://datatracker.ietf.org/doc/html/draft-stephan-
    legacy-path-eco-design-01 https://github.com/emile22/sustainability
 
-   o There is a need to reflect component on/off frequency capacity (in
+   o Discuss the need to reflect component on/off frequency capacity (in
    YANG) to avoid too intensive power on/off.
 
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 31]
+Claise, et al.           Expires 22 January 2025               [Page 31]
 
 Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
 
 
-   o There is a need to support a description of the different nature of
-   the sources of the energy used (mix).  It should be flexible are the
-   types of sources might augment in the future.
+   o Discuss the need to support a description of the different nature
+   of the sources of the energy used (mix).  It should be flexible are
+   the types of sources might augment in the future.
+
+   o Company's SBTi approved decarbonization plan and how to link it to
+   GREEN WG scope, short/mid vs long term.
+
+   The Science Based Targets
+   initiative(SBTi)[https://sciencebasedtargets.org] defines and
+   promotes best practice in science-based target setting.  Offering a
+   range of target-setting resources and guidance, the SBTi
+   independently assesses and approves companies’ targets in line with
+   its strict criteria.
+
+   Open issue, https://github.com/marisolpalmero/GREEN-bof/issues/88
+
+   o Consideration to include in scope, allocate/compute and report the
+   energy spent on behalf of a particular customer/user.  Open issue,
+   marisolpalmero/GREEN-bof#89
 
 13.  References
 
@@ -1769,6 +1785,15 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
    Control of Electronic Devices Employed in Office/Consumer
    Environments", 2004.
 
+
+
+
+
+Claise, et al.           Expires 22 January 2025               [Page 32]
+
+Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
+
+
    [ATIS-0600015.03.2013] ATIS, "ATIS-0600015.03.2013: Energy Efficiency
    for Telecommunication Equipment: Methodology for Measurement and
    Reporting for Router and Ethernet Switch Products", 2013.
@@ -1783,22 +1808,12 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
    https://www.itu.int/rec/T-REC-L.1310/en (https://www.itu.int/rec/T-
    REC-L.1310/en).
 
-
-
-
-
-
-
-Claise, et al.           Expires 21 January 2025               [Page 32]
-
-Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
-
-
 13.2.  Informative References
 
    [IEC.60050] International Electrotechnical Commission, "Electropedia:
    The World's Online Electrotechnical Vocabulary", 2013,
-   <http://www.electropedia.org/iev/iev.nsf/ welcome?openform>.
+   http://www.electropedia.org/iev/iev.nsf/ welcome?openform
+   (http://www.electropedia.org/iev/iev.nsf/ welcome?openform).
 
    [ITU-M.3400] International Telecommunication Union, "ITU-T
    Recommendation M.3400 -- Series M: TMN and Network Maintenance:
@@ -1826,6 +1841,15 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
               DOI 10.17487/RFC3411, December 2002,
               <https://www.rfc-editor.org/rfc/rfc3411>.
 
+
+
+
+
+Claise, et al.           Expires 22 January 2025               [Page 33]
+
+Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
+
+
    [RFC3433]  Bierman, A., Romascanu, D., and K.C. Norseth, "Entity
               Sensor Management Information Base", RFC 3433,
               DOI 10.17487/RFC3433, December 2002,
@@ -1839,16 +1863,6 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
               "Network Time Protocol Version 4: Protocol and Algorithms
               Specification", RFC 5905, DOI 10.17487/RFC5905, June 2010,
               <https://www.rfc-editor.org/rfc/rfc5905>.
-
-
-
-
-
-
-Claise, et al.           Expires 21 January 2025               [Page 33]
-
-Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
-
 
    [RFC6241]  Enns, R., Ed., Bjorklund, M., Ed., Schoenwaelder, J., Ed.,
               and A. Bierman, Ed., "Network Configuration Protocol
@@ -1884,6 +1898,14 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
               DOI 10.17487/RFC7577, July 2015,
               <https://www.rfc-editor.org/rfc/rfc7577>.
 
+
+
+
+Claise, et al.           Expires 22 January 2025               [Page 34]
+
+Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
+
+
    [RFC7603]  Schoening, B., Chandramouli, M., and B. Nordman, "Energy
               Management (EMAN) Applicability Statement", RFC 7603,
               DOI 10.17487/RFC7603, August 2015,
@@ -1898,13 +1920,6 @@ Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
               Ananthakrishnan, H., and X. Liu, "A YANG Data Model for
               Network Topologies", RFC 8345, DOI 10.17487/RFC8345, March
               2018, <https://www.rfc-editor.org/rfc/rfc8345>.
-
-
-
-Claise, et al.           Expires 21 January 2025               [Page 34]
-
-Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
-
 
    [RFC8348]  Bierman, A., Bjorklund, M., Dong, J., and D. Romascanu, "A
               YANG Data Model for Hardware Management", RFC 8348,
@@ -1940,6 +1955,13 @@ Authors' Addresses
    Email: benoit.claise@huawei.com
 
 
+
+
+Claise, et al.           Expires 22 January 2025               [Page 35]
+
+Internet-Draft  Requirements for Energy Efficiency Manag       July 2024
+
+
    Qin Wu
    Huawei
    Email: bill.wu@huawei.com
@@ -1957,4 +1979,38 @@ Authors' Addresses
 
 
 
-Claise, et al.           Expires 21 January 2025               [Page 35]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Claise, et al.           Expires 22 January 2025               [Page 36]

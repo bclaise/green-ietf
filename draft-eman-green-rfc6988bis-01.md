@@ -53,6 +53,7 @@ normative:
 
 informative:
 
+
 --- abstract
 
    This document defines requirements for standards specifications for
@@ -1292,12 +1293,26 @@ informative:
    https://datatracker.ietf.org/doc/html/draft-stephan-legacy-path-eco-design-01
    https://github.com/emile22/sustainability
 
-   o There is a need to reflect component on/off frequency capacity (in YANG) 
+   o Discuss the need to reflect component on/off frequency capacity (in YANG)
    to avoid too intensive power on/off.
 
-   o There is a need to support a description of the different nature of the 
-   sources of the energy used (mix). It should be flexible are the types of sources 
+   o Discuss the need to support a description of the different nature of the
+   sources of the energy used (mix). It should be flexible are the types of sources
    might augment in the future.
+
+   o Company's SBTi approved decarbonization plan and how to link it to 
+   GREEN WG scope, short/mid vs long term.
+
+   The Science Based Targets initiative(SBTi)[https://sciencebasedtargets.org] 
+   defines and promotes best practice in science-based target setting. Offering 
+   a range of target-setting resources and guidance, the SBTi independently 
+   assesses and approves companies’ targets in line with its strict criteria.
+
+   Open issue, https://github.com/marisolpalmero/GREEN-bof/issues/88
+
+   o Consideration to include in scope, allocate/compute and report the energy
+   spent on behalf of a particular customer/user.
+   Open issue, marisolpalmero/GREEN-bof#89
 
 
 # References
@@ -1352,16 +1367,12 @@ informative:
 
 ## Informative References
 
-   [IEC.60050]
-              International Electrotechnical Commission, "Electropedia:
-              The World's Online Electrotechnical Vocabulary", 2013,
-              <http://www.electropedia.org/iev/iev.nsf/
-              welcome?openform>.
+   [IEC.60050] International Electrotechnical Commission, "Electropedia:
+   The World's Online Electrotechnical Vocabulary", 2013,
+   <http://www.electropedia.org/iev/iev.nsf/ welcome?openform>.
 
-   [ITU-M.3400]
-              International Telecommunication Union, "ITU-T
-              Recommendation M.3400 -- Series M: TMN and Network
-              Maintenance: International Transmission Systems, Telephone
-              Circuits, Telegraphy, Facsimile and Leased Circuits --
-              Telecommunications Management Network - TMN management
-              functions", February 2000.
+   [ITU-M.3400] International Telecommunication Union, "ITU-T
+   Recommendation M.3400 -- Series M: TMN and Network Maintenance:
+   International Transmission Systems, Telephone Circuits, Telegraphy,
+   Facsimile and Leased Circuits -- Telecommunications Management
+   Network - TMN management functions", February 2000.
