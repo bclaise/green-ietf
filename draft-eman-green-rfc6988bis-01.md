@@ -87,7 +87,7 @@ informative:
 
 ## In Preparation of the GREEN BoF at IETF 120
 
-   The EMAN (Energy MANagement) working group, created in 2010 and now concluded, has produced multiples RFCs
+   The EMAN (Energy MANagement) working group (WG), created in 2010 and now concluded, has produced multiples RFCs
 
       * {{?RFC7603}}, Energy Management (EMAN) Applicability Statement
 
